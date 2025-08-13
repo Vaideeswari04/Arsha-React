@@ -1,0 +1,52 @@
+.abt3 .bar1{
+    width: 100%;
+    background-color:#37517E;
+    
+    
+}
+.abt3 .bar2{
+    width:90%;
+    background-color:#37517E
+}
+.abt3 .bar3{
+    width:75%;
+    background-color:#37517E
+}
+.abt3 .bar4{
+    width:55%;
+    background-color:#37517E
+}
+.abt3 .percent{
+    float: right;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: "Jost", sans-serif;
+    
+}
+.abt3 .tools{
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: "Jost", sans-serif;
+
+}
+
+img{
+    
+    margin-left: 30px;
+    max-width: 100%;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    max-height: 100%;
+    
+}
+h3{
+    font-weight: bolder;
+    color:#37517E;
+    font-size: 34px;
+    font-family: "Jost", sans-serif;
+
+}
+#about3{
+    margin-bottom: 140px;
+    margin-top: 140px;
+}

@@ -1,0 +1,47 @@
+.icon{
+    color: #47b2e4;
+    font-size: 20px;
+    padding-right:5px;
+
+}
+h2{
+    font-size: 32px;
+    font-family: "Jost", sans-serif;
+    font-weight: bold;
+    color: #37517E;
+    padding-right: 40px;
+    
+}
+.para1{
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    padding-top: 20px;
+}
+.para2{
+    font-size: 18px;
+}
+span{
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+
+}
+button{  
+    color: #47b2e4;
+    padding: 8px 28px;
+    font-family: "Jost", sans-serif;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: white;
+    border:2px solid #47b2e4 ;
+    
+} 
+button:hover{
+    color: white;
+    background-color: #47b2e4;
+}
+#abt1{
+    background-color: white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
